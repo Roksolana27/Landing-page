@@ -92,11 +92,11 @@ html * {
 }
 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Poppins;
+  font-family: 'Montserrat', sans-serif;
 }
 
 p {
-	font-family: Roboto;
+	font-family: 'Montserrat', sans-serif;
 }
 
 ::-moz-selection {
@@ -126,13 +126,13 @@ p {
 
 .error-message {
 	color: #FF3333;
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	margin-top: 5px;
 }
 
 .success-message {
 	color:#009900;
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	margin-top: 5px;
 }
 
@@ -173,7 +173,7 @@ p {
 
 .navbar {
 	font-size: 14px;
-  font-family: Poppins;
+  font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	text-transform: capitalize;
 	padding-top: 25px;
@@ -422,7 +422,7 @@ p {
 }
 
 .hero-content p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #A1A1A1;
 	font-weight: 400;
@@ -432,7 +432,7 @@ p {
 
 
 .btn-action {
- font-family: Roboto;
+ font-family: 'Montserrat', sans-serif;
  background-color: #3333CC;
  border: 1px solid #3333CC;
  border-radius: 0;
@@ -489,7 +489,7 @@ p {
 
 
 .software .btn-action {
-font-family: Arial;
+font-family: 'Montserrat', sans-serif;
  background-color: #3f51b5;
  border: 1px solid #3f51b5;
  border-radius: 50px;
@@ -550,7 +550,7 @@ font-family: Arial;
 }
 
 .form .hero-content p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #A1A1A1;
 	font-weight: 400;
@@ -673,7 +673,7 @@ font-family: Arial;
 }
 
 .signup-form p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 12px;
 	color: #DDDDDD;
 	margin: 25px 0 10px 0;
@@ -724,7 +724,7 @@ textarea.form-control {
     vertical-align: middle;
     background: #F8F8F8;
     border: 1px solid #DDDDDD;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     font-weight: 300;
     line-height: 50px;
@@ -763,7 +763,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
     vertical-align: middle;
     background: #111111;
     border: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
     font-weight: 400;
     line-height: 45px;
@@ -889,7 +889,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app-info h4 {
-  font-family: Roboto;
+  font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   font-weight: 300;
   color:  #3C4B5D;
@@ -903,7 +903,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app-info span {
-  font-family: Poppins;
+  font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   font-weight: 400;
   color: #222222;
@@ -1027,14 +1027,14 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .about-content h2 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 24px;
 	line-height: 1.2;
 	color: #111111;
 }
 
 .about-content h3 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 21px;
 	font-weight: bold;
 	line-height: 1;
@@ -1091,7 +1091,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 
 .pitch-intro p {
-	font-family: 'Poppins';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
 	color: #A1A1A1;
@@ -1130,7 +1130,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .pitch-content p {
-	font-family: 'Poppins';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
 	color: #A1A1A1;
@@ -1188,7 +1188,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .f-content p {
-	font-family: 'Roboto';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	color: #4D4D4D;
@@ -1233,7 +1233,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .features .features-list ul li {
 	display: block;
 	margin: 0 0 15px 0;
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	line-height: 1.2;
 	color: #A1A1A1;
@@ -1256,7 +1256,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .software .features-list p {
 	margin: 0 0 25px 0;
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	line-height: 1.2;
 	color: #A1A1A1;
@@ -1269,7 +1269,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 
 .software .features .features-list ul li {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	display: block;
 	font-size: 13px;
 	margin: 0 0 15px 0;
@@ -1293,7 +1293,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .feature-sub .sub-inner h1 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 34px;
 	font-weight: 300;
 	line-height: 1;
@@ -1347,7 +1347,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .software .feature-sub .sub-inner h1 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 34px;
 	font-weight: 300;
 	line-height: 1.1;
@@ -1414,7 +1414,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .app-features .feature-single p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #A1A1A1;
 	line-height: 1.4;
@@ -1465,7 +1465,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .split-content ul li {
-	font-family: Roboto;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	letter-spacing: 0;
 	margin-bottom: 15px;
@@ -1497,7 +1497,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .review-text h3 {
-	font-family: Roboto;
+	font-family: 'Montserrat', sans-serif;
   font-size: 16px;
 	font-weight: 300;
 	letter-spacing: 0;
@@ -1513,7 +1513,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .review-text p {
-  font-family: Poppins;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 	font-weight: 300;
   padding: 20px 10px 20px 10px;
@@ -1553,7 +1553,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .pricing p {
-	font-family: 'Poppins';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	color: #444444;
@@ -1569,7 +1569,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .pricing .price-tag h2 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 24px;
 	font-weight: 400;
 	color: #A1A1A1;
@@ -1632,7 +1632,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .table-left .pricing-details span, .table-right .pricing-details span {
 	display: inline-block;
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 28px;
 	font-weight: 400;
 	color: #808080;
@@ -1647,7 +1647,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .table-left .pricing-details p, .table-right .pricing-details p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	color: #505050;
@@ -1662,7 +1662,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 
 .table-left .pricing-details li, .table-right .pricing-details li {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	color: #505050;
@@ -1755,7 +1755,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .cta-sub .cta-inner p {
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #FFFFFF;
 	font-weight: 300;
@@ -1767,30 +1767,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .subscribe-form {
 	text-align: left;
 }
-/*
-.subscribe-form .mail {
- background-color: #F9F9F9;
- border: none;
- border-radius: 5px 0 0 5px;
- border-color: #FFFFFF;
- outline: none;
- height: 40px;
- padding: 0 150px 0 20px;
- box-shadow: none;
- -webkit-box-sizing: content-box;
- -moz-box-sizing: content-box;
- box-sizing: content-box;
- transition: all .3s;
-}
 
-
-.subscribe-form input {
-  color: #222222;
-  font-family: Poppins;
-  padding: 0;
-  font-size: 0.9em;
-}
-*/
 .subscribe-form .submit-button {
   font-size: 0.9em;
   height: 40px;
@@ -1841,7 +1818,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 
 .formee input {
   color: #222222;
-  font-family: Poppins;
+  font-family: 'Montserrat', sans-serif;
   padding: 0;
   font-size: 0.9em;
 	height: 49px;
@@ -1876,14 +1853,14 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 	position: absolute;
 	left: 0;
 	top: 150%;
-	font-family: 'Poppins';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #FF0000;
 }
 
 #response {
 	color: #FFFFFF;
-	font-family: 'Poppins';
+	font-family: 'Montserrat', sans-serif;
 	margin-top: 30px;
 	font-size: 14px;
 	line-height: 1.4;
@@ -1919,7 +1896,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .contact h1 {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 21px;
 	font-weight: 400;
 	color: #3333CC;
@@ -1927,7 +1904,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .contact p {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px !important;
 	font-weight: 400;
 	color: #111111;
@@ -1936,7 +1913,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .contact a {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 18px;
 	font-weight: 400;
 	color: #3333CC;
@@ -1956,7 +1933,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 .footer-menu li {
 	display: inline;
 	line-height: 2;
-	font-family: Poppins;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	padding-right: 15px;
 	text-transform: capitalize;
@@ -1968,7 +1945,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .footer p {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	color: #A1A1A1;
@@ -1977,7 +1954,7 @@ input[type="text"]::-webkit-input-placeholder, textarea::-webkit-input-placehold
 }
 
 .footer-text p {
-	font-family: 'Josefin Sans';
+	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
 	color: #3333CC;
 	font-weight: 400;
